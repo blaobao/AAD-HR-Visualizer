@@ -1,0 +1,12 @@
+[theme]
+# Main page background color (e.g., deep space black)
+backgroundColor = "#000000"
+
+# Sidebar background color (e.g., dark charcoal)
+secondaryBackgroundColor = "#1A1A1A"
+
+# Primary accent color for buttons and sliders
+primaryColor = "#FF4B4B"
+
+# Font color
+textColor = "#FFFFFF"
